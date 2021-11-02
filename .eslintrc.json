@@ -1,0 +1,21 @@
+{
+  "extends": ["eslint:recommended", "plugin:jest/recommended"],
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "jest"
+  ],
+  "rules": {
+    "//": "The no-console rule is only for development purposes",
+    "no-console": "off",
+    "no-useless-escape": "off",
+    "no-inner-declarations": "off"
+  },
+  "parser": "babel-eslint"
+}

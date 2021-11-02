@@ -1,0 +1,12 @@
+{
+  "mongo_URI": "mongodb+srv://Kanebotofficial:Harachi@@2019@kane0.ss2ej.mongodb.net/Kanebotofficial?retryWrites=true&w=majority",
+  "client_id": "805445823843532820",
+  "token": "ODA1NDQ1ODIzODQzNTMyODIw.YBa_4A.cQ_z_S8l79qpTBZb52_8qsQ45w4",
+  "invite": true,
+  "geniusLyricsAPI": "7zAX0ztdivyj9dscu0jebaptUI-Us4Wy5wfQxZLwAZn4LPs2hribhObuk1EIz7JoOi97Xk8FfHM_RiZdMfldHA",
+  "tenorAPI": "B6A72K4GYKUN",
+  "newsAPI": "news-api-key",
+  "twitchClientID": "Your-Client-ID",
+  "twitchClientSecret": "Your-Client-Secret",
+  "rawgAPI": "8b834eab1bf541aea0a7ec3a8315e6d8"
+}
